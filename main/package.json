@@ -1,0 +1,20 @@
+{
+  "name": "KO-Folder for Desktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^24.1.2",
+    "clean-webpack-plugin": "^4.0.0",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}

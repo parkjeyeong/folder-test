@@ -1,0 +1,15 @@
+# root
+.vscode
+build
+node_modules
+
+# main
+main/dist
+main/node_modules
+
+# renderer
+renderer/build
+renderer/node_modules
+
+#resources
+resources/core/classify_gps.exe
